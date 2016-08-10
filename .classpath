@@ -6,7 +6,7 @@
 			<accessrule kind="accessible" pattern="javafx/**"/>
 		</accessrules>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/jpwallace/Documents/GitHub/libraries/javax.json-1.0.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jpwallace/Documents/GitHub/libraries/javax.json-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joswall/workspace/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/joswall/workspace/javax.json-api-1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
