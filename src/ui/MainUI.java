@@ -7,11 +7,13 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 
-public class displayMainUI {
-	@Override
-    public void start(Stage primaryStage) {
-		
-					
+public class MainUI {
+	
+	Stage primaryStage = null;
+	
+    public void startMainUI() {
+    	
+		primaryStage = new Stage();		
         primaryStage.setTitle("ICOM 7200 Rig Control");
         
         GridPane grid = new GridPane();
